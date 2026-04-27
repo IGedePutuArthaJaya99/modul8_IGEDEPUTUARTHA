@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\KONSTRUKSIPL\\modul8_103082400036\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{294B336D-C189-446E-80FF-8FB898329313}|modul8_103082400036\\modul8_103082400036.csproj|d:\\konstruksipl\\modul8_103082400036\\modul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{294B336D-C189-446E-80FF-8FB898329313}|modul8_103082400036\\modul8_103082400036.csproj|solutionrelative:modul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{805E0F2D-5879-53FA-3C21-6E1DCC1D16F3}|modul8_103082400036\\modul8_103082400036.csproj|d:\\konstruksipl\\modul8_103082400036\\modul8_103082400036\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{805E0F2D-5879-53FA-3C21-6E1DCC1D16F3}|modul8_103082400036\\modul8_103082400036.csproj|solutionrelative:modul8_103082400036\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805E0F2D-5879-53FA-3C21-6E1DCC1D16F3}|modul8_103082400036\\modul8_103082400036.csproj|d:\\konstruksipl\\modul8_103082400036\\modul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805E0F2D-5879-53FA-3C21-6E1DCC1D16F3}|modul8_103082400036\\modul8_103082400036.csproj|solutionrelative:modul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\KONSTRUKSIPL\\modul8_103082400036\\modul8_103082400036\\.gitignore",
+              "RelativeDocumentMoniker": "modul8_103082400036\\.gitignore",
+              "ToolTip": "D:\\KONSTRUKSIPL\\modul8_103082400036\\modul8_103082400036\\.gitignore",
+              "RelativeToolTip": "modul8_103082400036\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T04:04:25.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KONSTRUKSIPL\\modul8_103082400036\\modul8_103082400036\\Program.cs",
               "RelativeDocumentMoniker": "modul8_103082400036\\Program.cs",
